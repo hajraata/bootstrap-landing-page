@@ -1,0 +1,9 @@
+.signup-container {
+  background: url("https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg")
+    no-repeat;
+  background-size: cover;
+  color: white;
+  height: 60vh;
+  align-content: center;
+  text-align: center;
+}

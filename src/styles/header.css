@@ -1,0 +1,13 @@
+.header-container {
+  background: url("https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg")
+    no-repeat;
+  background-size: cover;
+  color: white;
+  height: 120vh;
+  align-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+}

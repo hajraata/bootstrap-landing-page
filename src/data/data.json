@@ -1,0 +1,80 @@
+{
+  "featuresList": [
+    {
+      "id": "1",
+      "icon": "fa-regular fa-4x fa-window-maximize",
+      "title": "Fully Responsive",
+      "description": "This theme will look great on any device, no matter the size!"
+    },
+    {
+      "id": "2",
+      "icon": "fa-solid fa-4x fa-layer-group",
+      "title": "Bootstrap 5 Ready",
+      "description": "Featuring the latest build of the new Bootstrap 5 framework!"
+    },
+    {
+      "id": "3",
+      "icon": "fa-solid fa-4x fa-terminal",
+      "title": "Easy To Use",
+      "description": "Ready to use with your own content, or customize the source files!"
+    }
+  ],
+
+  "featuresGrid": [
+    {
+      "id": "1",
+      "title": "Fully Responsive Design",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea cupiditate voluptates minima consequatur, quis veniam voluptatum possimus ut mollitia veritatis.",
+      "image": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=481&q=80",
+      "order": "first"
+    },
+    {
+      "id": "2",
+      "title": "Updated For Bootstrap 5",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea cupiditate voluptates minima consequatur, quis veniam voluptatum possimus ut mollitia veritatis.",
+      "image": "https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "order": "last"
+    },
+    {
+      "id": "3",
+      "title": "Easy To Use & Customize",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea cupiditate voluptates minima consequatur, quis veniam voluptatum possimus ut mollitia veritatis.",
+      "image": "https://images.unsplash.com/photo-1479920252409-6e3d8e8d4866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "order": "first"
+    }
+  ],
+
+  "reviewsList": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+      "name": "Julie",
+      "review": "'This is fantastic! I had a great experience. Thanks so much guys!'"
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "name": "Alex",
+      "review": "'Bootstrap is amazing. I've been using it to create super nice landing pages.'"
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "name": "Sarah",
+      "review": "'Thanks so much for making these free resources available to us!'"
+    }
+  ],
+
+  "footerList": [
+    { "id": "1", "link": "#", "title": "About" },
+    { "id": "2", "link": "#", "title": "Contact" },
+    { "id": "3", "link": "#", "title": "Terms of Use" },
+    { "id": "4", "link": "#", "title": "Privacy Policy" }
+  ],
+
+  "footerIcons": [
+    { "id": "1", "classes": "fa-brands fa-instagram fa-2x px-3" },
+    { "id": "2", "classes": "fa-brands fa-twitter fa-2x px-3" },
+    { "id": "3", "classes": "fa-brands fa-facebook fa-2x px-3" }
+  ]
+}
